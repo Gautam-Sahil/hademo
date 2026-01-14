@@ -45,24 +45,6 @@ A premium, institutional-grade product listing interface built with React and Ta
 - **Build Tool**: Vite
 - **Package Manager**: npm
 
-## 📁 Project Structure
-hedamo/
-├── public/ # Static assets
-├── src/
-│ ├── components/ # React components
-│ │ ├── Header.jsx # Premium navbar with scroll effects
-│ │ ├── ProductListView.jsx # Main product listing interface
-│ │ ├── ProductDetailView.jsx # Product detail view
-│ │ ├── ProductCard.jsx # Individual product cards
-│ │ ├── FilterPanel.jsx # Filter controls
-│ │ ├── SkeletonLoader.jsx # Loading states
-│ │ ├── EmptyState.jsx # Empty state UI
-│ │ └── KeyboardShortcuts.jsx # Keyboard navigation
-│ ├── data/ # Sample data
-│ │ └── products.js # Product data array
-│ └── pages/ # Page components
-└── README.md
-
 text
 
 ## 🏗️ Setup & Installation
