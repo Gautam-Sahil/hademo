@@ -30,11 +30,6 @@ A premium, institutional-grade product listing interface built with React and Ta
 
 [Add your live demo link here if deployed]
 
-## 📸 Screenshots
-
-| Product Listing | Product Details | Mobile View |
-|-----------------|-----------------|-------------|
-| ![Listing](screenshots/listing.png) | ![Details](screenshots/details.png) | ![Mobile](screenshots/mobile.png) |
 
 ## 🛠️ Technology Stack
 
