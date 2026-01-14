@@ -26,9 +26,6 @@ A premium, institutional-grade product listing interface built with React and Ta
 - Keyboard navigation support (Ctrl/Cmd + K for search)
 - Responsive design across desktop, tablet, and mobile
 
-## 🚀 Live Demo
-
-[Add your live demo link here if deployed]
 
 
 ## 🛠️ Technology Stack
