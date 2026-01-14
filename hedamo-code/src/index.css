@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  /* ... your existing theme variables ... */
+  --animate-shimmer: shimmer 2s infinite linear;
+  
+  @keyframes shimmer {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100%); }
+  }
+}
+
+@utility bg-skeleton {
+  @apply relative overflow-hidden bg-slate-200/50;
+  &::after {
+    content: "";
+    @apply absolute inset-0;
+    background: linear-gradient(
+      90deg,
+      transparent 0%,
+      rgba(255, 255, 255, 0.6) 50%,
+      transparent 100%
+    );
+    animation: var(--animate-shimmer);
+  }
+}
+
+/* Glass effect for the skeleton container */
+@utility glass-skeleton-card {
+  @apply bg-white/40 backdrop-blur-md border border-white/80 rounded-[2rem] p-6 shadow-sm;
+}
