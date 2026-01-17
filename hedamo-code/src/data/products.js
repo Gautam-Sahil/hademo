@@ -1,7 +1,7 @@
 export const products = [
   {
     id: 'PROD-001',
-    name: 'Pure Turmeric Powder',
+    name: 'Pure Fresh Turmeric Powder',
     category: 'Spices & Herbs',
     producer: 'Green Valley Farms',
     status: 'Published',
