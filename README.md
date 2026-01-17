@@ -1,8 +1,14 @@
-markdown
+
 # Hedamo - Product Disclosure Platform
+
+<img width="2972" height="4716" alt="hademo vercel app_ (3)" src="https://github.com/user-attachments/assets/f751d68b-ee5c-4065-bf8f-ac0badae3e5b" />
+
+
 
 
 A premium, institutional-grade product listing interface built with React and Tailwind CSS. This platform manages producer-declared product information with a focus on trust, clarity, and professional user experience.
+
+
 
 ## ✨ Features
 
